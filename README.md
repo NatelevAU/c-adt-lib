@@ -1,24 +1,26 @@
-|                 | **Linear** | **Non-Linear** |
-| -----------     | ---------- | -------------- |
-| **Ordered**     | List       | Tree           |
-| **Non-Ordered** | Hash       | Graph          |
-
 # Lists
 -------
+## Toggles
+- Single/Double
+- Linear/Circular
+- Tail
+- Count
 
-Single
+## Sub-Types
+- Linked Lists
+- Queues
+- Stacks
 
-Double
 
 # Trees
 -------
-- Binary vs Non-Binary
-- Sorted vs Non-Sorted
+## Toggles
+- Binary
+- Sorted
 
-# Hashes
---------
 
 # Graphs
 --------
-- Directed vs Non-Directed
-- Weighted vs Non-Weighted
+## Toggles
+- Directed
+- Weighted
