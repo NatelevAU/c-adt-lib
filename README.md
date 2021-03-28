@@ -1,26 +1,33 @@
 # Lists
 -------
-## Toggles
-- Single/Double
-- Linear/Circular
-- Tail
-- Count
-
 ## Sub-Types
 - Linked Lists
 - Queues
 - Stacks
 
+**Container Toggles**
+- Count
+- Tail
+
+**Node Toggles**
+- Parent
+- Single/Double
+- Linear/Circular
+
 
 # Trees
 -------
-## Toggles
-- Binary
+**Container Toggles**
+- Count
+
+**Node Toggles**
+- Parent
+- Binary/Multi
 - Sorted
 
 
 # Graphs
 --------
-## Toggles
+**Node Toggles**
 - Directed
 - Weighted
