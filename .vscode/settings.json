@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "vector": "c",
+        "string_view": "c",
+        "functional": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "adt_container.h": "c",
+        "stdint.h": "c",
+        "cstdint": "c",
+        "inttypes.h": "c"
+    }
+}
